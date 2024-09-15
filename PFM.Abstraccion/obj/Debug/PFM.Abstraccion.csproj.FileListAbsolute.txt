@@ -1,0 +1,24 @@
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\obj\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.Abstraccion\obj\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\obj\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.Abstraccion\obj\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\PFM.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.Abstraccion\obj\Debug\ABS TRACCION.pdb

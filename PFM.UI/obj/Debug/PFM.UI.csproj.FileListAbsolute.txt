@@ -1,0 +1,221 @@
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.exe
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmBitacora.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.exe
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmBitacora.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Ingenieria de software\00_Actualizado\Proyecto-Flores-Montero (1)\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.exe
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmBitacora.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmBitacora.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\V2\Ingernieria-de-software-main\PFM.UI\obj\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\UI.exe.config
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\UI.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\BLL.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\FRAMEWORK.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\BLL.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\FRAMEWORK.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\PFM.UI.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmBitacora.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmCrearIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmLogin.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmMDI.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmAltaUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmGestionUser.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.FrmModificarUsuario.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.FrmPerfiles.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmPermisos.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.frmPermisosUsuarios.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.FromModificarIdioma.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\PFM.UI.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\PFM.UI.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\PFM.UI.csproj.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.exe
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.UI\obj\Debug\UI.pdb

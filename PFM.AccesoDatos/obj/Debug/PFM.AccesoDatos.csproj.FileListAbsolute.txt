@@ -1,0 +1,55 @@
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\DA L.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\obj\Debug\PFM.Acce.4D5593D1.Up2Date
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\obj\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Facultad Nico\Campo\Trabajo Practico\Proyecto-Flores-Montero\Proyecto-Flores-Montero\PFM.AccesoDatos\obj\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\obj\Debug\PFM.Acce.4D5593D1.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\obj\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Entrega_Final_IS\PFM.AccesoDatos\obj\Debug\DA L.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\DA L.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\ABS TRACCION.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\ABS TRACCION.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.Acce.4D5593D1.Up2Date
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\DA L.dll
+C:\Users\Usuario\Desktop\Ultimo Commit\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\PFM.Acce.4D5593D1.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\Final_Agosto\Ingernieria-de-software-main\Ingernieria-de-software-main\PFM.AccesoDatos\obj\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\DA L.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\ABS TRACCION.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\BE.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\ABS TRACCION.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\bin\Debug\BE.pdb
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\obj\Debug\PFM.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\obj\Debug\PFM.Acce.4D5593D1.Up2Date
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\obj\Debug\DA L.dll
+C:\Users\facun\OneDrive\Escritorio\UAI\2024\2do Cuatrimestre\Trabajo de Diploma\Ingernieria-de-software-Facundo-Flores\PFM.AccesoDatos\obj\Debug\DA L.pdb
